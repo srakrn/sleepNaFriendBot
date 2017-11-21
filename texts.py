@@ -25,6 +25,7 @@ texts = [
     'WHAT WHAT WHAAAT?',
     'Our kids won\'t go to sleep? BLAME CANADA!',
     'I\'ve got you in my sights'
+    'หลับเถิดชาวไทย อย่ามัวแต่ไปลุ่มหลง'
 ]
 
 def get_text():
